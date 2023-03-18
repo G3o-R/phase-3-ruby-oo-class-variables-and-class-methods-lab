@@ -143,3 +143,5 @@ artists rather than genres.
 - [`#tally`][tally docs]
 
 [tally docs]: https://ruby-doc.org/core-2.7.0/Enumerable.html#method-i-tally
+
+https://github.com/G3o-R/phase-3-ruby-oo-class-variables-and-class-methods-lab
